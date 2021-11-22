@@ -1,5 +1,8 @@
 com\mausam\jpabuddy\entity\Product.class
 com\mausam\jpabuddy\repo\CustomerRepository.class
-com\mausam\jpabuddy\JpaBuddyApplication.class
 com\mausam\jpabuddy\repo\ProductRepository.class
 com\mausam\jpabuddy\entity\Customer.class
+com\mausam\jpabuddy\entity\Datasource.class
+com\mausam\jpabuddy\configuration\DevConfiguration.class
+com\mausam\jpabuddy\entity\Datasource$DatasourceBuilder.class
+com\mausam\jpabuddy\JpaBuddyApplication.class
