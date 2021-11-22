@@ -76,7 +76,9 @@
 					</excludes>
 				</configuration>
 			</plugin>
+
 		</plugins>
+		<finalName>github-action-cicd</finalName>
 	</build>
 
 </project>
